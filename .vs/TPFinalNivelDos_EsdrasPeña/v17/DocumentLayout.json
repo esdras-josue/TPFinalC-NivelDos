@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\catalogpro\\commerce-catalog-manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|solutionrelative:commerce-catalog-manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3DF1A2-84B9-4065-AE79-A191D4E95603}|bussines\\bussines.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\bussinesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3DF1A2-84B9-4065-AE79-A191D4E95603}|bussines\\bussines.csproj|solutionrelative:bussines\\bussinesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\commerce-catalog-manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|solutionrelative:commerce-catalog-manager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\commerce-catalog-manager\\frmadditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|solutionrelative:commerce-catalog-manager\\frmadditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3DF1A2-84B9-4065-AE79-A191D4E95603}|bussines\\bussines.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3DF1A2-84B9-4065-AE79-A191D4E95603}|bussines\\bussines.csproj|solutionrelative:bussines\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\commerce-catalog-manager\\frmadditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20BBCB30-C037-4445-8ABF-56753FB913E0}|Commerce-Catalog-Manager\\Commerce-Catalog-Manager.csproj|solutionrelative:commerce-catalog-manager\\frmadditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF0FDDB-5433-40F5-ADD9-ED212491CCC1}|dominio\\dominio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\dominio\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF0FDDB-5433-40F5-ADD9-ED212491CCC1}|dominio\\dominio.csproj|solutionrelative:dominio\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BussinesItem.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\BussinesItem.cs",
+              "RelativeDocumentMoniker": "bussines\\BussinesItem.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\BussinesItem.cs",
+              "RelativeToolTip": "bussines\\BussinesItem.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwKcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:44:50.949Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\DataAccess.cs",
+              "RelativeDocumentMoniker": "bussines\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\bussines\\DataAccess.cs",
+              "RelativeToolTip": "bussines\\DataAccess.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:29:48.847Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddItem.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\frmAddItem.cs",
+              "RelativeDocumentMoniker": "Commerce-Catalog-Manager\\frmAddItem.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\frmAddItem.cs",
+              "RelativeToolTip": "Commerce-Catalog-Manager\\frmAddItem.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:00:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\frmAddItem.cs",
+              "RelativeDocumentMoniker": "Commerce-Catalog-Manager\\frmAddItem.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\frmAddItem.cs [Design]",
+              "RelativeToolTip": "Commerce-Catalog-Manager\\frmAddItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:59:04.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\Form1.cs",
+              "RelativeDocumentMoniker": "Commerce-Catalog-Manager\\Form1.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\Form1.cs [Design]",
+              "RelativeToolTip": "Commerce-Catalog-Manager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:58:18.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\Form1.cs",
+              "RelativeDocumentMoniker": "Commerce-Catalog-Manager\\Form1.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\Commerce-Catalog-Manager\\Form1.cs",
+              "RelativeToolTip": "Commerce-Catalog-Manager\\Form1.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAA1wK4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:40:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\dominio\\Item.cs",
+              "RelativeDocumentMoniker": "dominio\\Item.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\CatalogPro\\dominio\\Item.cs",
+              "RelativeToolTip": "dominio\\Item.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:21:26.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

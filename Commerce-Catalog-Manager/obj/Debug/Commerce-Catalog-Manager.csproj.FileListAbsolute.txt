@@ -1,0 +1,16 @@
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\Commerce-Catalog-Manager.exe.config
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\Commerce-Catalog-Manager.exe
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\Commerce-Catalog-Manager.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce-Catalog-Manager.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce_Catalog_Manager.Form1.resources
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce_Catalog_Manager.Properties.Resources.resources
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce-Catalog-Manager.csproj.GenerateResource.cache
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce-Catalog-Manager.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce-Catalog-Manager.exe
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce-Catalog-Manager.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce.30023AF4.Up2Date
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\bussines.dll
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\bin\Debug\bussines.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\Commerce-Catalog-Manager\obj\Debug\Commerce_Catalog_Manager.frmAddItem.resources

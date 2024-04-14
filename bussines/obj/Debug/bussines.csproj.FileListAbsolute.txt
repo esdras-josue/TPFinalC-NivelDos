@@ -1,0 +1,9 @@
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\bin\Debug\bussines.dll
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\bin\Debug\bussines.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\obj\Debug\bussines.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\obj\Debug\bussines.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\obj\Debug\bussines.csproj.Up2Date
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\obj\Debug\bussines.dll
+C:\Users\esdra\Desktop\C# nivel dos\CatalogPro\bussines\obj\Debug\bussines.pdb
